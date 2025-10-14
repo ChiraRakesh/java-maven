@@ -1,0 +1,11 @@
+Maven_Project/
+├── pom.xml
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/example/App.java
+│   │   └── webapp/
+│   │       └── index.jsp
+│   └── test/
+│       └── java/
+│           └── com/example/AppTest.java
